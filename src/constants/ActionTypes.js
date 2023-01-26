@@ -1,0 +1,26 @@
+export const IS_LOADING = "IS_LOADING";
+export const IS_ERROR = "IS_ERROR";
+
+export const GET_HOMEPAGE_DATA = "GET_HOMEPAGE_DATA";
+
+
+
+// get movie detail
+export const GET_MOVIE_DETAIL_LOADING = "GET_MOVIE_DETAIL_LOADING";
+export const GET_MOVIE_DETAIL_SUCCESS = "GET_MOVIE_DETAIL_SUCCESS";
+export const GET_MOVIE_DETAIL_ERROR = "GET_MOVIE_DETAIL_ERROR";
+
+//search input
+export const SEARCH_INPUT_SUCCESS = "SEARCH_INPUT_SUCCESS";
+export const CATEGORY_INPUT_SUCCESS = "CATEGORY_INPUT_SUCCESS";
+
+
+// get movies
+export const GET_MOVIES_LOADING = "GET_MOVIES_LOADING";
+export const GET_MOVIES_SUCCESS = "GET_MOVIES_SUCCESS";
+export const GET_MOVIES_ERROR = "GET_MOVIES_ERROR";
+
+
+
+
+

@@ -1,0 +1,37 @@
+.player-wrapper {
+    width: auto; 
+    height: auto; 
+  }
+  .react-player {
+    padding-top: 30%; 
+    margin-left: 10%;
+    margin-top: -10%;
+    position: relative; 
+  }
+  
+  .react-player > div {
+    position: absolute; 
+  }
+  iframe {
+    border: 0;
+    margin-bottom: 0%;
+    margin-top: -22%;
+}
+
+@media (max-width: 800px) {
+  .seek-range{
+    width: 100%;
+  }
+}
+@media (min-width: 800px) {
+  .seek-range{
+    width: 100%;
+  }
+}
+
+.seek-range1{
+  position: absolute;
+  margin-top: 7%;
+  width: 100%;
+  margin-left: 6%;
+}

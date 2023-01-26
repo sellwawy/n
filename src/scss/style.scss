@@ -1,0 +1,16 @@
+/* If you want to override variables do it here */
+@import "variables";
+@import "mixins";
+
+// If you want to add something do it here
+@import "custom";
+@import "./elements/footer"; // this will hold all footer related styles.
+
+// ie fixes
+@import "ie-fix";
+
+// Generic common styles
+@import "base";
+
+// responsive styles
+@import "responsive/responsive";
